@@ -1,0 +1,77 @@
+.eventitem{
+    background-color: rgb(216, 214, 214);
+    background-size: cover;
+     height: calc(105vh - 70px);
+     padding: 5px;
+     
+}
+.itembody{
+    background-color: sienna;
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px; 
+    margin-top: 20px;
+    display: flex;
+    
+    
+}
+.contentevent{
+    color: rgb(236, 236, 40);
+    margin-left: 10px;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 15px;
+    padding: 15px;
+    
+    
+   
+    
+}
+.eventparagrap{
+    color: azure;
+    font-size: medium;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3px;
+    margin-top: 10px;
+   
+}
+.eventbtntype{
+    background-color: sienna; 
+    justify-content: center;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px; 
+    display: flex;
+    color: rgb(236, 236, 40);
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.eventbutton{
+    background-color: sienna; 
+    margin-left: 20px;
+    margin-right: 20px; 
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.eventbutton button{
+    background-color: #009970;
+    color: #fff;
+    font-size: 25px;
+    padding: 8px 20px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+    margin-top: 5px;
+
+}
+.eventbutton button:hover{
+    background-color: blue;
+
+}
+

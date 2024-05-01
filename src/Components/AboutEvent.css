@@ -1,0 +1,26 @@
+.evnetbody{
+    background-color: rgb(216, 214, 214);
+    background-size: cover;
+     height: calc(105vh - 70px);
+     padding: 5px;
+    
+   
+}
+.eventheading{
+    color: #000000;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    margin-top: 10px;
+}
+.eventheading span {
+    background-color: rgb(252, 252, 66);
+}
+.paragrap{
+    padding: 10px;
+    margin: 40px;
+    font-size: x-large;
+    font-weight: 700;
+}

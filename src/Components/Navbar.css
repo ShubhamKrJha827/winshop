@@ -1,0 +1,25 @@
+.Navbar{
+    background-color: rgb(189, 181, 181);
+    background-size: cover;
+    height: calc(52vh - 50px);
+    padding: 5px;
+}  
+
+.Navbar .content{
+    /* border: solid red 2px; */
+    margin-left: 20px;
+    display: flex;  
+}
+
+ .Navlink  {
+    /* border: solid red 2px; */
+    margin-left: 190px;
+    display: inline-flex;
+    padding: 30px;
+    gap: 70px;
+    /* color: rgb(252, 252, 83); */
+    list-style-type: none;
+    font-size: x-large;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
